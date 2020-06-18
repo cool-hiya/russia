@@ -871,7 +871,7 @@ template {
 }
 
 .promo__text {
-    margin-top: 137px;
+    margin: 137px 0 0;
     max-width: 382px;
     font-size: 18px;
     text-align: center;
