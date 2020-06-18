@@ -515,6 +515,9 @@ template {
     margin: 80px auto 102px;
 }
 
+.place {
+    display: grid;
+}
 
 
 body {
