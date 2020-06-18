@@ -589,6 +589,9 @@ template {
     left: 0;
 }
 
+.video__cover-content {
+    z-index: 1;
+}
 
 .video {
     position: relative;
