@@ -501,12 +501,13 @@ template {
 }
 
 .lead__image {
-    margin-top: 71px;
+    
 }
 
 .lead__subtitle {
     font-size: 30px;
     max-width: 580px;
+    margin-bottom: 71px;
 }
 
 .lead {
