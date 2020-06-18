@@ -12,6 +12,13 @@
     src: url(../fonts/3c747ac4004be3a30e9807662caebaa0.woff2) format("woff2"), url(../fonts/c7c0091f1b2b06064572ec0016f1e142.woff) format("woff");
 }
 
+@font-face {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 900;
+    src: url(../fonts/23eb804eb49e365fa2f1d72040dc4cf8.woff2) format("woff2"), url(../fonts/16792010d318c2904562ed1c9b5a5144.woff) format("woff");
+}
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
