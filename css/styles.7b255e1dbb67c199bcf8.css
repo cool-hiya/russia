@@ -511,12 +511,19 @@ template {
     margin: 80px auto 102px;
 }
 
+.place__title {
+    grid-area: title;
+}
 
 
 
+.place__website {
+    grid-area: website;
+}
 
 .place {
     display: grid;
+    
 }
 
 
