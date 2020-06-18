@@ -375,6 +375,7 @@ template {
 .title {
     font-weight: 900;
     text-align: center;
+    margin: 0;
 }
 
 .header {
