@@ -484,12 +484,9 @@ template {
 }
 
 .photo-grid {
-    margin: 0;
-    padding: 0;
     display: grid;
     grid-template-columns: repeat(4, 284px);
     grid-gap: 16px;
-    list-style-type: none;
 }
 
 .intro__description {
