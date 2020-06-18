@@ -483,6 +483,9 @@ template {
     max-width: 680px;
 }
 
+.places__title {
+    max-width: 680px;
+}
 .places {
     margin-top: 80px;
 }
