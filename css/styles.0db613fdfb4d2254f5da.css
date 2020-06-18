@@ -467,6 +467,10 @@ template {
 
 
 
+.places {
+    margin-top: 80px;
+}
+
 
 body {
     font-family: "Inter", sans-serif;
