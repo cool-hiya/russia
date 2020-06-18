@@ -1,3 +1,16 @@
+@font-face {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/2505c0d4b34ffca98f8f8852e24928eb.woff2) format("woff2"), url(../fonts/fc49d131f795b4d48f261495d4caef09.woff) format("woff");
+}
+
+@font-face {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/3c747ac4004be3a30e9807662caebaa0.woff2) format("woff2"), url(../fonts/c7c0091f1b2b06064572ec0016f1e142.woff) format("woff");
+}
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
