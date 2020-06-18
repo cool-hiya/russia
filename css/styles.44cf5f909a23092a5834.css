@@ -380,10 +380,6 @@ template {
     font-size: 54px;
 }
 
-.title_left {
-    text-align: left;
-}
-
 .title {
     font-weight: 900;
     margin: 0;
@@ -443,6 +439,7 @@ template {
     max-width: 640px;
     margin: 0 auto;
 }
+
 
 
 
