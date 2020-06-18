@@ -404,6 +404,11 @@ template {
     margin: 0 auto;
     padding: 0 48px;
 }
+.lang-switch__lang_active {
+    pointer-events: none;
+    text-decoration: underline;
+}
+
 .link {
     color: #ffffff;
     text-decoration: none;
@@ -420,11 +425,6 @@ template {
 
 .lang-switch__lang {
     font-size: 24px;
-}
-
-.lang-switch__lang_active {
-    pointer-events: none;
-    text-decoration: underline;
 }
 
 .lang-switch {
