@@ -531,6 +531,9 @@ template {
     list-style-type: none;
 }
 
+.intro__summary-label {
+    font-weight: 700;
+}
 
 .intro {
     max-width: 984px;
