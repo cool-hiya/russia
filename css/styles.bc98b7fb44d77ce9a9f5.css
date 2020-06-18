@@ -503,6 +503,9 @@ template {
     list-style-type: none;
 }
 
+.intro {
+    max-width: 984px;
+}
 
 
 body {
