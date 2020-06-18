@@ -587,6 +587,7 @@ template {
     -webkit-box-pack: start;
         -ms-flex-pack: start;
             justify-content: start;
+    padding-bottom: 5px;
 }
 
 .place__website-label {
