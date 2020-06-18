@@ -576,7 +576,6 @@ template {
         align-content: end;
     display: grid;
     margin: 0;
-    row-gap: 16px;
     padding-bottom: 15px;
 }
 
@@ -587,6 +586,7 @@ template {
     text-transform: uppercase;
     letter-spacing: 0.2em;
 }
+
 
 .place {
     display: grid;
