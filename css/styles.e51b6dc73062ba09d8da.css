@@ -632,6 +632,9 @@ template {
         flex-direction: column;
 }
 
+.promo__image {
+    object-fit: cover;
+}
 
 .promo{
     margin: 100px 0;
