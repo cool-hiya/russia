@@ -470,7 +470,10 @@ template {
     margin-top: 78px;
 }
 
-
+.intro {
+    max-width: 985px;
+    margin: 0 auto;
+}
 
 .places__summary {
     font-size: 13px;
