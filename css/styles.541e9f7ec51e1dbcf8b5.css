@@ -376,6 +376,10 @@ template {
     font-size: 96px;
 }
 
+.title_sm {
+    font-size: 54px;
+}
+
 .title {
     font-weight: 900;
     margin: 0;
