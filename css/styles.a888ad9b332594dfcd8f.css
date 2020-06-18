@@ -372,6 +372,10 @@ template {
     display: none;
 }
 
+.title {
+    font-weight: 900;
+    text-align: center;
+}
 
 .header {
     display: -ms-flexbox;
