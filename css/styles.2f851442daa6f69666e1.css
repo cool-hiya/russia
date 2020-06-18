@@ -704,6 +704,20 @@ template {
     transform: scale(1.1);
 }
 
+.videos__list{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 16px;
+}
+
+.videos__item {
+    height: 323px;
+}
+
+.videos {
+    margin: 102px 0;
+}
+
 
 body {
     font-family: "Inter", sans-serif;
