@@ -1,15 +1,46 @@
-<!DOCTYPE html>
-<html lang="ru">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-        content="width=device-width, initial-scale=1, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
-    <title>Russia</title>
-</head>
-
-<body>
-    <p>Ntcn</p>
-<script src="main.b744073bbd4024edd303.js"></script></body>
-
-</html>
+Html Webpack Plugin:
+<pre>
+  Error: Child compilation failed:
+  Module build failed (from ../node_modules/image-webpack-loader/index.js):
+  Error: Cannot find module 'imagemin-gifsicle'
+  
+  - loader.js:636 Function.Module._resolveFilename
+    internal/modules/cjs/loader.js:636:15
+  
+  - loader.js:562 Function.Module._load
+    internal/modules/cjs/loader.js:562:25
+  
+  - loader.js:692 Module.require
+    internal/modules/cjs/loader.js:692:17
+  
+  - helpers.js:25 require
+    internal/modules/cjs/helpers.js:25:18
+  
+  
+  - Error: Cannot find module 'imagemin-gifsicle'
+  
+  - child-compiler.js:122 childCompiler.runAsChild
+    [russia]/[html-webpack-plugin]/lib/child-compiler.js:122:18
+  
+  - Compiler.js:343 compile
+    [russia]/[webpack]/lib/Compiler.js:343:11
+  
+  - Compiler.js:681 hooks.afterCompile.callAsync.err
+    [russia]/[webpack]/lib/Compiler.js:681:15
+  
+  
+  - Hook.js:154 AsyncSeriesHook.lazyCompileHook
+    [russia]/[tapable]/lib/Hook.js:154:20
+  
+  - Compiler.js:678 compilation.seal.err
+    [russia]/[webpack]/lib/Compiler.js:678:31
+  
+  
+  - Hook.js:154 AsyncSeriesHook.lazyCompileHook
+    [russia]/[tapable]/lib/Hook.js:154:20
+  
+  - Compilation.js:1423 hooks.optimizeAssets.callAsync.err
+    [russia]/[webpack]/lib/Compilation.js:1423:35
+  
+  
+</pre><script src="main.36d23501f5ad5f96f5bd.js"></script>
