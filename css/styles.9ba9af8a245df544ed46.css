@@ -475,19 +475,8 @@ template {
     margin: 0 auto;
 }
 
-.places__summary {
-    font-size: 13px;
-    margin: 24px 0 0;
-    padding: 0;
-    list-style-type: none;
-}
-
-.places__description {
-    max-width: 680px;
-}
-
 .places {
-    margin-top: 80px;
+    margin-top: 92px;
 }
 
 .photo-grid__image {
