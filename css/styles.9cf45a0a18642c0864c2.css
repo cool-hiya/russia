@@ -641,7 +641,7 @@ template {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: red;
+    background-color: rgba(#2a2c2f, 0.3);
     z-index: -1;
 }
 
