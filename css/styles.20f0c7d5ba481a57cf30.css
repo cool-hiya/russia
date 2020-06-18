@@ -486,7 +486,7 @@ template {
 
 .lead {
     max-width: 985px;
-    margin: 0 auto;
+    margin: 16px auto 0;
 }
 
 .places__list{
