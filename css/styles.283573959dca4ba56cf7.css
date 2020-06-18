@@ -600,6 +600,16 @@ template {
 }
 
 
+.comment__image {
+    width: 97px;
+    height: 97px;
+    border-radius: 50%;
+}
+
+
+
+
+
 
 body {
     font-family: "Inter", sans-serif;
