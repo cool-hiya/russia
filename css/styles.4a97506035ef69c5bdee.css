@@ -650,6 +650,10 @@ template {
     margin: 100px 0;
 }
 
+.promo:hover .promo__image {
+    transform: scale(1.1);
+}
+
 
 body {
     font-family: "Inter", sans-serif;
