@@ -591,6 +591,7 @@ template {
 
 .video__cover-content {
     z-index: 1;
+    position: relative;
 }
 
 .video {
