@@ -1,4 +1,7 @@
 .image__title {
     font-size: 10px;
-    text-decoration: uppercase;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    margin-top: 9px;
+    line-height: 12px;
 }

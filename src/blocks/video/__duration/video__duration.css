@@ -1,4 +1,6 @@
 .video__duration {
     font-weight: 500;
     font-size: 12px;
+    letter-spacing: 0.3em;
+    margin-bottom: 10px;
 }

@@ -3,4 +3,5 @@
     margin: 0 auto;
     padding: 0 48px;
     min-width: 320px;
+    box-sizing: border-box;
 }

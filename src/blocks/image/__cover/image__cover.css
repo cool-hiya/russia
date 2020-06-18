@@ -1,3 +1,4 @@
 .image__cover {
+    object-fit: contain;
     width: 100%;
 }
