@@ -636,6 +636,8 @@ template {
         justify-content: flex-end;
     -ms-flex-align: center;
         align-items: center;
+    padding: 48px;
+    box-sizing: border-box;
 }
 
 .promo__cover::after {
