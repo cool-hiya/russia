@@ -501,6 +501,10 @@ template {
 
 .lead__image {
     margin-top: 71px;
+    height: 554px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    width: 100%;
 }
 
 @media (max-width: 1024px) {
