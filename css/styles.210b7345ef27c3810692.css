@@ -539,6 +539,7 @@ template {
     grid-area: website;
     -ms-flex-line-pack: end;
         align-content: end;
+    margin: 0;
 }
 
 .place {
