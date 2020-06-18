@@ -431,6 +431,11 @@ template {
     margin-bottom: 48px;
 }
 
+.section__subtitle {
+    text-align: center;
+}
+
+
 
 .text_lg {
     font-size: 30px;
