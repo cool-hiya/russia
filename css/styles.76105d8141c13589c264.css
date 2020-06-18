@@ -503,6 +503,9 @@ template {
     list-style-type: none;
 }
 
+.intro__description {
+    margin-top: 48px;
+}
 
 .intro {
     max-width: 984px;
