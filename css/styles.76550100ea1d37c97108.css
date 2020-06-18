@@ -563,6 +563,10 @@ template {
 }
 
 
+.footer__copyright {
+    margin-left: 25px;
+}
+
 .footer {
     display: -ms-flexbox;
     display: flex;
