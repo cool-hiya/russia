@@ -584,6 +584,9 @@ template {
     -ms-flex-align: center;
         align-items: center;
 }
+.menu__item {
+    margin-right: 18px;
+}
 
 
 
