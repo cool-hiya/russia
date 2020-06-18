@@ -622,6 +622,13 @@ template {
         flex-direction: column;
 }
 
+.promo__cover {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
 
 body {
     font-family: "Inter", sans-serif;
