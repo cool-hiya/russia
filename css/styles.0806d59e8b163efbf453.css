@@ -404,9 +404,9 @@ template {
     margin: 0 auto;
     padding: 0 48px;
 }
-.link_active {
+.link.link_active {
     pointer-events: none;
-    border-color: red;
+    text-decoration: underline;
 }
 
 .link {
