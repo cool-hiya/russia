@@ -489,7 +489,7 @@ template {
 
 .photo-grid {
     display: grid;
-    grid-template-columns: repeat(4, 284px);
+    grid-template-columns: repeat(4, 1fr);
     grid-gap: 16px;
 }
 
