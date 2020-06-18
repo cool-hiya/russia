@@ -484,7 +484,8 @@ template {
 }
 
 .places {
-    margin-top: 92px;
+    margin: 92px auto 0;
+    max-width: 985px;
 }
 
 .photo-grid__image {
