@@ -372,6 +372,10 @@ template {
     display: none;
 }
 
+.title_h1 {
+    font-size: 96px;
+}
+
 .title {
     font-weight: 900;
     text-align: center;
