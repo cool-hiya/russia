@@ -388,6 +388,14 @@ template {
     margin: 0 auto;
     padding: 0 48px;
 }
+.link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
 
 
 body {
