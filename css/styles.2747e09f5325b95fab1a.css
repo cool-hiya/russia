@@ -664,6 +664,10 @@ template {
     transition: all 0.3s;
 }
 
+.promo__text {
+    margin-top: 137px;
+    max-width: 382px;
+}
 
 .promo {
     margin: 100px 0;
