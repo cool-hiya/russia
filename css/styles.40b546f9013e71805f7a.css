@@ -529,6 +529,10 @@ template {
     row-gap: 36px;
 }
 
+.place__description p {
+    margin: 0;
+}
+
 .place__website {
     grid-area: website;
 }
