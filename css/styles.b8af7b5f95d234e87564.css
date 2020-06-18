@@ -632,6 +632,8 @@ template {
         flex-direction: column;
     position: relative;
     overflow: hidden;
+    -ms-flex-pack: center;
+        justify-content: center;
 }
 
 .promo__cover::after {
