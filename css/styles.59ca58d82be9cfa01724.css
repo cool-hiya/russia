@@ -407,6 +407,7 @@ template {
 .link {
     color: #ffffff;
     text-decoration: none;
+    font-size: inherit;
 }
 
 .link:hover {
