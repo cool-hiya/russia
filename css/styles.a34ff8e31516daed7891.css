@@ -616,6 +616,11 @@ template {
             box-sizing: border-box;
 }
 
+.video__title {
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 39px;
+}
 
 .video {
     position: relative;
