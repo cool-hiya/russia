@@ -635,6 +635,9 @@ template {
     height: 41px;
 }
 
+.video__director {
+    margin: 0;
+}
 
 .video {
     position: relative;
