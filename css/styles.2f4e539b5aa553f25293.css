@@ -668,6 +668,11 @@ template {
     cursor: pointer;
 }
 
+.video__play:hover + .video__poster {
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+}
+
 .video {
     position: relative;
     border-radius: 5px;
@@ -812,6 +817,7 @@ template {
     -webkit-transform: scale(1.1);
             transform: scale(1.1);
 }
+
 
 
 body {
