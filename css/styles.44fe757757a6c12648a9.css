@@ -563,6 +563,9 @@ template {
 }
 
 
+.video {
+    position: relative;
+}
 
 .footer__copyright {
     margin-left: 20px;
