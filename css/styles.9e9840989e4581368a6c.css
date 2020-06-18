@@ -406,7 +406,7 @@ template {
 }
 .link_active {
     pointer-events: none;
-    text-decoration: underline;
+    border-color: red;
 }
 
 .link {
