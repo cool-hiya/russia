@@ -525,6 +525,8 @@ template {
     grid-area: description;
     font-size: 18px;
     line-height: 30px;
+    display: grid;
+    row-gap: 36px;
 }
 
 .place__website {
