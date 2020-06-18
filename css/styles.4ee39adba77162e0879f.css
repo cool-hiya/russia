@@ -630,6 +630,9 @@ template {
 
 .video__play-icon {
     margin-bottom: auto;
+    font-size: 0;
+    width: 41px;
+    height: 41px;
 }
 
 .video {
