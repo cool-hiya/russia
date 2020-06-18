@@ -490,6 +490,9 @@ template {
     margin-top: 80px;
 }
 
+.photo-grid__image {
+    width: 100%;
+}
 
 .photo-grid {
     margin: 0;
