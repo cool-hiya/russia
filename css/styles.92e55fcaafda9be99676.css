@@ -561,6 +561,7 @@ template {
     line-height: 65px;
     font-size: 72px;
     font-weight: 900;
+    margin: 0;
 }
 
 .place__image {
