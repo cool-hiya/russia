@@ -626,6 +626,8 @@ template {
     text-decoration: none;
     color: inherit;
     height: 594px;
+    display: -ms-flexbox;
+    display: flex;
 }
 
 
