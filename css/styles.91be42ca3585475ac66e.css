@@ -415,6 +415,8 @@ template {
     margin: 0 auto;
     padding: 0 48px;
     min-width: 320px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 .link.link_active {
