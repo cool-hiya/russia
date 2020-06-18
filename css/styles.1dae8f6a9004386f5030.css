@@ -630,6 +630,7 @@ template {
     display: flex;
     -ms-flex-direction: column;
         flex-direction: column;
+    position: relative;
 }
 
 .promo__image {
