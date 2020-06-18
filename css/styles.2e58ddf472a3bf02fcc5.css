@@ -643,8 +643,8 @@ template {
     height: 100%;
     z-index: -1;
     transform: scale(1);
+    transition: all 0.3s;
 }
-
 
 .promo {
     margin: 100px 0;
