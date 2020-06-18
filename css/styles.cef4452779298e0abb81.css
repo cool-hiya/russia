@@ -475,6 +475,7 @@ template {
     font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 0.15em;
+    margin-top: 12px;
 }
 
 .image {
