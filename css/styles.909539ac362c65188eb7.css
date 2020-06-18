@@ -576,7 +576,6 @@ template {
         align-content: end;
     display: grid;
     margin: 0;
-    padding-bottom: 15px;
 }
 
 .place__website-label {
