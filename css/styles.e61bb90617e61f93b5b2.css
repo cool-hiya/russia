@@ -641,7 +641,8 @@ template {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgba(#2a2c2f, 0.3);
+    background-color: #2a2c2f;
+    opacity: 0.3;
     z-index: -1;
 }
 
