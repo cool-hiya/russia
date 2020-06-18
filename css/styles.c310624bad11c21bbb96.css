@@ -631,7 +631,7 @@ template {
 }
 
 @media (max-width: 1024px) {
-    .photo-grid {
+    .place {
         grid-template-columns: 440px auto;
         -webkit-column-gap: 32px;
            -moz-column-gap: 32px;
