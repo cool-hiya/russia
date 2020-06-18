@@ -630,6 +630,12 @@ template {
     row-gap: 53px;
 }
 
+@media (max-width: 1024px) {
+    .photo-grid {
+        grid-template-columns: 440px auto;
+    }
+}
+
 .videos__list {
     display: grid;
     grid-template-columns: 1fr 1fr;
