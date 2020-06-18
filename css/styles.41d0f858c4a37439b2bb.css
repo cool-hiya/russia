@@ -407,7 +407,7 @@ template {
 
 .lang-switch {
     display: grid;
-    
+    grid-gap: 18px;
 }
 
 
