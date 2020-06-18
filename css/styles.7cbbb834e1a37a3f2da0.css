@@ -475,6 +475,13 @@ template {
     margin: 0 auto;
 }
 
+.places__place {
+    margin-bottom: 72px;
+}
+
+.places__place:last-child {
+    margin-bottom: 0;
+}
 
 .places {
     margin-top: 92px;
