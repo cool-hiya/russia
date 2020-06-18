@@ -558,6 +558,9 @@ template {
     grid-gap: 16px;
 }
 
+.videos__item {
+    height: 323px;
+}
 
 .videos {
     margin: 102px 0;
