@@ -520,10 +520,12 @@ template {
     grid-area: image;
     width: 100%;
 }
-.place__image {
-    grid-area: image;
-    width: 100%;
+.place__description {
+    grid-area: description;
+    font-size: 18px;
+    line-height: 30px;
 }
+
 .place__website {
     grid-area: website;
 }
