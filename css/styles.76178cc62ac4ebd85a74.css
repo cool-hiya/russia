@@ -632,8 +632,8 @@ template {
         flex-direction: column;
     position: relative;
     overflow: hidden;
-    -ms-flex-pack: center;
-        justify-content: center;
+    -ms-flex-pack: end;
+        justify-content: flex-end;
     -ms-flex-align: center;
         align-items: center;
 }
