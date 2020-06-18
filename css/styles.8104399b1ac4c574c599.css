@@ -485,6 +485,9 @@ template {
 
 .image__cover {
     width: 100%;
+    height: 554px;
+    -o-object-fit: cover;
+       object-fit: cover;
 }
 
 .image__title {
