@@ -474,6 +474,7 @@ template {
 .image__title {
     font-size: 10px;
     text-transform: uppercase;
+    letter-spacing: 0.15em;
 }
 
 .image {
