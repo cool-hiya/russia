@@ -372,13 +372,15 @@ template {
     display: none;
 }
 
+
+
+
+
 .centerer{
     max-width: 1280px;
     margin: 0 auto;
     padding: 0 48px;
 }
-
-
 
 body {
     font-family: "Inter", sans-serif;
