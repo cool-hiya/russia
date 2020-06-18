@@ -404,7 +404,7 @@ template {
     margin: 0 auto;
     padding: 0 48px;
 }
-.lang-switch__lang_active {
+.link_active {
     pointer-events: none;
     text-decoration: underline;
 }
