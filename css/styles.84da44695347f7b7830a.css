@@ -577,6 +577,8 @@ template {
 
 .video {
     position: relative;
+    border-radius: 5px;
+    overflow: hidden;
 }
 
 .footer__copyright {
