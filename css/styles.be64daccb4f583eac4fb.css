@@ -507,12 +507,6 @@ template {
     width: 100%;
 }
 
-@media (max-width: 1280px) {
-    .lead__image {
-        margin-top: 50px;
-    }
-}
-
 .lead__subtitle {
     font-size: 30px;
     max-width: 580px;
