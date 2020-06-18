@@ -419,7 +419,7 @@ template {
 
 .link.link_active {
     pointer-events: none;
-    text-decoration: underline;
+    border-color: white;
 }
 
 .link {
@@ -429,7 +429,7 @@ template {
 }
 
 .link:hover {
-    text-decoration: underline;
+    border-color: #ffffff;
 }
 
 .lang-switch__lang {
