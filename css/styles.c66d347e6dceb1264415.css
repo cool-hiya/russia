@@ -879,7 +879,7 @@ template {
 }
 
 .promo {
-    margin: 85px 0;
+    margin: 85px 0 105px;
 }
 
 .promo:hover .promo__image {
