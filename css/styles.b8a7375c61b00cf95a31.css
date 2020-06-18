@@ -667,6 +667,7 @@ template {
 .promo__text {
     margin-top: 137px;
     max-width: 382px;
+    font-size: 18px;
 }
 
 .promo {
