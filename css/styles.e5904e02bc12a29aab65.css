@@ -403,11 +403,6 @@ template {
 
 .lang-switch__lang {
     font-size: 24px;
-    margin-right: 18px;
-}
-
-.lang-switch__lang:last-child {
-    margin-right: 0;
 }
 
 .lang-switch {
