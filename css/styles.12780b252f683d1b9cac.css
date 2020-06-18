@@ -802,6 +802,7 @@ template {
 .comment__text {
     margin: 24px 0;
     max-width: 382px;
+    line-height: 24px;
 }
 
 .comment {
