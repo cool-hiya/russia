@@ -646,7 +646,7 @@ template {
     transition: all 0.3s;
 }
 
-.promo__image:after {
+.promo__image::after {
     content: "";
     width: 100%;
     height: 100%;
