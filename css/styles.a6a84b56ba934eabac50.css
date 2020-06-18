@@ -484,6 +484,10 @@ template {
     margin-top: 78px;
 }
 
+.lead__subtitle {
+    font-size: 30px;
+    max-width: 580px;
+}
 
 .lead {
     max-width: 985px;
