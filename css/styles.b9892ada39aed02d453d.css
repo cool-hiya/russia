@@ -507,7 +507,7 @@ template {
     width: 100%;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1280px) {
     .lead__image {
         margin-top: 50px;
     }
