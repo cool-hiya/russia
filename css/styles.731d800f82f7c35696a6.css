@@ -397,6 +397,9 @@ template {
     text-decoration: underline;
 }
 
+.logo {
+    width: 176px;
+}
 
 
 body {
