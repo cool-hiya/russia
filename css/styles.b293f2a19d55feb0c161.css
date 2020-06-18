@@ -823,10 +823,10 @@ template {
     height: 3px;
 }
 ::-webkit-scrollbar-button {
-    background-color: #999;
+    background-color: #999999;
 }
 ::-webkit-scrollbar-track {
-    background-color: #999;
+    background-color: #999999;
 }
 ::-webkit-scrollbar-thumb {
     height: 50px;
@@ -834,10 +834,10 @@ template {
     border-radius: 3px;
 }
 ::-webkit-scrollbar-corner {
-    background-color: #999;
+    background-color: #999999;
 }
 ::-webkit-resizer {
-    background-color: #999;
+    background-color: #999999;
 }
 
 
