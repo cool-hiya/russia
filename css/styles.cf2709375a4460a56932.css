@@ -378,7 +378,6 @@ template {
 
 .title {
     font-weight: 900;
-    text-align: center;
     margin: 0;
 }
 
@@ -428,6 +427,7 @@ template {
 .section__title {
     max-width: 800px;
     text-align: center;
+    margin: 0 auto;
 }
 
 
