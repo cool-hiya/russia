@@ -428,10 +428,6 @@ template {
     grid-gap: 18px;
 }
 
-.section__title_left {
-    text-align: left;
-}
-
 .section__title {
     max-width: 800px;
     text-align: center;
