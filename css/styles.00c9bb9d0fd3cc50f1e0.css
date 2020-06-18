@@ -649,7 +649,7 @@ template {
 .promo__cover {
     text-decoration: none;
     color: inherit;
-    height: 594px;
+    min-height: 594px;
     display: -ms-flexbox;
     display: flex;
     -ms-flex-direction: column;
