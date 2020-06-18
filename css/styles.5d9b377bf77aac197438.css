@@ -473,8 +473,7 @@ template {
 
 .image__title {
     font-size: 10px;
-    -webkit-text-decoration: uppercase;
-            text-decoration: uppercase;
+    text-transform: uppercase;
 }
 
 .image {
