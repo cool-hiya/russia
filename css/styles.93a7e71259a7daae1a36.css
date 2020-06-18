@@ -427,6 +427,8 @@ template {
     text-decoration: none;
     font-size: inherit;
     border-bottom: 1px solid transparent;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
 }
 
 .link:hover {
