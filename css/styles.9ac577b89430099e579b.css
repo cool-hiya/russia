@@ -685,6 +685,7 @@ template {
 
 .promo__image {
     object-fit: cover;
+    object-position: center;
     position: absolute;
     top: 0;
     left: 0;
