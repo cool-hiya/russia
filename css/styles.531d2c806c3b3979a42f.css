@@ -592,6 +592,10 @@ template {
 .video__cover-content {
     z-index: 1;
     position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
 }
 
 .video {
