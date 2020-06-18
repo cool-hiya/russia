@@ -904,6 +904,9 @@ template {
     background-color: #999999;
 }
 
+.copyright {
+    line-height: 20px;
+}
 
 
 body {
