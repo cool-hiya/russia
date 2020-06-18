@@ -445,7 +445,7 @@ template {
 .lang-switch {
     display: grid;
     grid-template-columns: auto auto;
-    grid-gap: 18px;
+    grid-gap: 19px;
 }
 
 .section__title {
