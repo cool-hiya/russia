@@ -597,7 +597,6 @@ template {
     display: grid;
     grid-gap: 20px;
     grid-template-columns: repeat(3, auto);
-    padding-top: 50px;
 }
 
 
