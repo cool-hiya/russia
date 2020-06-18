@@ -530,6 +530,7 @@ template {
     grid-template-areas:
     'title website '
     'image description';
+    column-gap: 40px;
 }
 
 
