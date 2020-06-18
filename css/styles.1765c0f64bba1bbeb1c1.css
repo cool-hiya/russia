@@ -650,7 +650,8 @@ template {
     font-size: 0;
     width: 41px;
     height: 41px;
-    background-image: url(../images/90806a9e250ec5493e57c40f740abf34.svg);
+    background-image: url(../images/90806a9e250ec5493e57c40f740abf34.svg) no-repeat center center;
+    background-size: contain;
 }
 
 .video__director {
