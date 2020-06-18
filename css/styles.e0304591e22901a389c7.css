@@ -372,11 +372,15 @@ template {
     display: none;
 }
 
-.title_lg {
+.title_size_l {
     font-size: 96px;
 }
 
-.title_sm {
+.title_size_m {
+    font-size: 72px;
+}
+
+.title_size_s {
     font-size: 54px;
 }
 
