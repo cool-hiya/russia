@@ -576,6 +576,7 @@ template {
         align-items: center;
     -ms-flex-pack: justify;
         justify-content: space-between;
+    padding: 48px 0;
 }
 
 .menu__list{
