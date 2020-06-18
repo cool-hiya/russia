@@ -540,10 +540,6 @@ template {
     row-gap: 60px;
 }
 
-.place > p {
-    margin: 0 0 36px;
-}
-
 
 body {
     font-family: "Inter", sans-serif;
