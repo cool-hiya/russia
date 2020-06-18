@@ -504,7 +504,8 @@ template {
 }
 
 .intro__description {
-    margin-top: 48px;
+    margin: 48px 0 24px;
+    max-width: 683px;
 }
 
 .intro {
