@@ -583,17 +583,6 @@ template {
     left: 0;
 }
 
-
-.video__cover-cover::after{
-    content:'';
-    display: block;
-    position:absolute;
-    top:0;
-    left:0;
-    width: 100%;
-    height:100%;
-    background: #000000;
-opacity: 0.5;}
 .video__source {
     width: 100%;
     height: 100%;
@@ -625,6 +614,19 @@ opacity: 0.5;}
     height: 100%;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
+}
+
+.video__cover-content::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000000;
+    opacity: 0.5;
+    z-index: -1;
 }
 
 .video__title {
