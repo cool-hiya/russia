@@ -483,10 +483,7 @@ template {
     max-width: 680px;
 }
 
-.places__title {
-    max-width: 680px;
-    text-align: left;
-}
+
 .places {
     margin-top: 80px;
 }
