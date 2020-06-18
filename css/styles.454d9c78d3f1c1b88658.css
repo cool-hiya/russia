@@ -572,6 +572,7 @@ template {
 
 .video {
     position: relative;
+    height: 323px;
 }
 
 .footer__copyright {
