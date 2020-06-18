@@ -555,6 +555,11 @@ template {
     row-gap: 60px;
 }
 
+.videos__list{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
 
 
 body {
