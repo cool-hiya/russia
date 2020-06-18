@@ -447,6 +447,12 @@ template {
     width: 100%;
 }
 
+.image__title {
+    font-size: 10px;
+    -webkit-text-decoration: uppercase;
+            text-decoration: uppercase;
+}
+
 
 
 body {
