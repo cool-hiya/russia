@@ -646,16 +646,6 @@ template {
     transition: all 0.3s;
 }
 
-.promo__image::after {
-    content: "";
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: red;
-}
-
 .promo {
     margin: 100px 0;
 }
