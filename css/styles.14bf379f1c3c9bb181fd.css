@@ -634,6 +634,8 @@ template {
     overflow: hidden;
     -ms-flex-pack: center;
         justify-content: center;
+    -ms-flex-align: center;
+        align-items: center;
 }
 
 .promo__cover::after {
