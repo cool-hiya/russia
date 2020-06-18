@@ -606,6 +606,9 @@ template {
     border-radius: 50%;
 }
 
+.comment__author {
+    font-weight: 700;
+}
 
 .comment__text {
     margin: 24px 0;
