@@ -537,6 +537,8 @@ template {
 
 .place__website {
     grid-area: website;
+    -ms-flex-line-pack: end;
+        align-content: end;
 }
 
 .place {
