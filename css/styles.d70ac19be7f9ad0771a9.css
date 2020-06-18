@@ -372,6 +372,9 @@ template {
     display: none;
 }
 
+.container{
+    padding: 0 calc(50% - 1280px / 2);
+}
 body {
     font-family: "Inter", sans-serif;
     font-weight: 400;
