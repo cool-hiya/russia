@@ -517,9 +517,11 @@ template {
 
 .place__image {
     grid-area: image;
+    width: 460px;
 }
 .place__image {
     grid-area: image;
+    width: 460px;
 }
 .place__website {
     grid-area: website;
