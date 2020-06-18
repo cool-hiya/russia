@@ -823,7 +823,7 @@ template {
     height: 3px;
 }
 ::-webkit-scrollbar-button {
-    background-color: rgb(245, 245, 245);
+    background-color: #666;
 }
 ::-webkit-scrollbar-track {
     background-color: #999;
@@ -832,6 +832,12 @@ template {
     height: 50px;
     background-color: #666;
     border-radius: 3px;
+}
+::-webkit-scrollbar-corner {
+    background-color: #999;
+}
+::-webkit-resizer {
+    background-color: #666;
 }
 
 
