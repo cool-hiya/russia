@@ -597,6 +597,8 @@ template {
     -ms-flex-direction: column;
         flex-direction: column;
     padding: 30px;
+    height: 100%;
+    box-sizing: border-box;
 }
 
 .video {
