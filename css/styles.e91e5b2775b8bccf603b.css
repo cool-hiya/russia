@@ -419,13 +419,14 @@ template {
 
 .link.link_active {
     pointer-events: none;
-    border-color: white;
+    border-color: #ffffff;
 }
 
 .link {
     color: #ffffff;
     text-decoration: none;
     font-size: inherit;
+    border: 1px solid transparent;
 }
 
 .link:hover {
