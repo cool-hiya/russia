@@ -467,6 +467,9 @@ template {
 
 
 
+.places__summary {
+    font-size: 13px;
+}
 
 .places {
     margin-top: 80px;
