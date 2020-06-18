@@ -426,7 +426,7 @@ template {
     color: #ffffff;
     text-decoration: none;
     font-size: inherit;
-    border-bottom: 1px solid transparent;
+    border-bottom: 2px solid transparent;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
 }
