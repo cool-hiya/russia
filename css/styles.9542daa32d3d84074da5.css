@@ -622,6 +622,10 @@ template {
     line-height: 39px;
 }
 
+.video__duration {
+    font-weight: 500;
+    font-size: 12px;
+}
 
 .video {
     position: relative;
