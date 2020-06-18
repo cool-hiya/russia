@@ -380,6 +380,7 @@ template {
         align-items: center;
     -ms-flex-pack: justify;
         justify-content: space-between;
+    padding: 30px 0;
 }
 
 .centerer{
