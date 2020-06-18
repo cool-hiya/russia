@@ -628,6 +628,10 @@ template {
     font-size: 12px;
 }
 
+.video__play-icon {
+    margin-bottom: auto;
+}
+
 .video {
     position: relative;
     border-radius: 5px;
