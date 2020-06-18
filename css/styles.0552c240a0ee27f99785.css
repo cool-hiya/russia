@@ -527,6 +527,7 @@ template {
 
 .place {
     display: grid;
+    grid-template-columns: 460px auto;
     grid-template-areas:
     'title website '
     'image description';
