@@ -537,6 +537,13 @@ template {
     grid-gap: 16px;
 }
 
+@media (max-width: 1280px) {
+    .photo-grid {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 14px;
+    }
+}
+
 .intro__description {
     margin: 30px 0 14px;
     max-width: 683px;
