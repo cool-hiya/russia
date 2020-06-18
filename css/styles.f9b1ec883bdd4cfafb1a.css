@@ -593,6 +593,10 @@ template {
     grid-template-columns: repeat(3, auto);
 }
 
+.comments__subtitle {
+    margin-top: 50px;
+}
+
 
 
 .comment__image {
