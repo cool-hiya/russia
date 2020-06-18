@@ -375,6 +375,12 @@ template {
 
 
 
+.header {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+        align-items: center;
+}
 
 .centerer{
     max-width: 1280px;
