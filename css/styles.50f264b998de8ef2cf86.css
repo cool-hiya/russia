@@ -405,6 +405,11 @@ template {
     font-size: 24px;
 }
 
+.lang-switch__lang_active {
+    pointer-events: none;
+    text-decoration: underline;
+}
+
 .lang-switch {
     display: grid;
     grid-template-columns: auto auto;
