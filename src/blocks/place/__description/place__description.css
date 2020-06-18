@@ -1,0 +1,12 @@
+.place__description {
+    grid-area: description;
+    font-size: 18px;
+    line-height: 30px;
+    display: grid;
+    row-gap: 36px;
+    align-content: start;
+}
+
+.place__description p {
+    margin: 0;
+}

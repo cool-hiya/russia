@@ -1,0 +1,25 @@
+.promo__cover {
+    text-decoration: none;
+    color: inherit;
+    min-height: 594px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 48px;
+    box-sizing: border-box;
+}
+
+.promo__cover::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #2a2c2f;
+    opacity: 0.3;
+    z-index: -1;
+}

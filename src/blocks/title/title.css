@@ -1,0 +1,8 @@
+@import "./_size/_l/title_size_l.css";
+@import "./_size/_m/title_size_m.css";
+@import "./_size/_s/title_size_s.css";
+
+.title {
+    font-weight: 900;
+    margin: 0;
+}

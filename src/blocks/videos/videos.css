@@ -1,0 +1,6 @@
+@import "./__list/videos__list.css";
+@import "./__item/videos__item.css";
+
+.videos {
+    margin: 102px 0;
+}

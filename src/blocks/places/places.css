@@ -1,0 +1,6 @@
+@import "./__list.css/places__list.css";
+
+.places {
+    margin: 92px auto 0;
+    max-width: 985px;
+}

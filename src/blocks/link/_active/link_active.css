@@ -1,0 +1,4 @@
+.link.link_active {
+    pointer-events: none;
+    text-decoration: underline;
+}

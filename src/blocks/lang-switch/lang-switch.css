@@ -1,0 +1,7 @@
+@import "./__lang/lang-switch__lang.css";
+
+.lang-switch {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 18px;
+}

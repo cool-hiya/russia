@@ -1,0 +1,11 @@
+@import "./__cover/promo__cover.css";
+@import "./__image/promo__image.css";
+@import "./__text/promo__text.css";
+
+.promo {
+    margin: 100px 0;
+}
+
+.promo:hover .promo__image {
+    transform: scale(1.1);
+}
