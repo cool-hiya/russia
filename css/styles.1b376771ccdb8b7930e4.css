@@ -561,7 +561,7 @@ template {
     font-size: 18px;
     line-height: 30px;
     display: grid;
-    row-gap: 36px;
+    row-gap: 20px;
     -ms-flex-line-pack: start;
         align-content: start;
 }
