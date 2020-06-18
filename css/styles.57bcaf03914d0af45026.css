@@ -500,6 +500,7 @@ template {
     display: grid;
     grid-template-columns: repeat(4, 284px);
     grid-gap: 16px;
+    list-style-type: none;
 }
 
 
