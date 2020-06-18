@@ -446,6 +446,10 @@ template {
     font-size: 30px;
 }
 
+.text_bold {
+    font-weight: 700px;
+}
+
 
 .image__cover {
     width: 100%;
