@@ -559,6 +559,8 @@ template {
 .place__title {
     grid-area: title;
     line-height: 65px;
+    font-size: 72px;
+    font-weight: 900;
 }
 
 .place__image {
