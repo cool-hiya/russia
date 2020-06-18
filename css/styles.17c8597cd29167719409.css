@@ -543,8 +543,7 @@ template {
     grid-template-areas:
         "title website "
         "image description";
-    -moz-column-gap: 40px;
-         column-gap: 40px;
+    column-gap: 40px;
     row-gap: 60px;
 }
 
@@ -579,10 +578,8 @@ template {
 .video__poster {
     width: 100%;
     height: 100%;
-    -o-object-fit: cover;
-       object-fit: cover;
-    -o-object-position: center;
-       object-position: center;
+    object-fit: cover;
+    object-position: center;
     position: absolute;
     top: 0;
     left: 0;
@@ -686,10 +683,8 @@ template {
 }
 
 .promo__image {
-    -o-object-fit: cover;
-       object-fit: cover;
-    -o-object-position: center;
-       object-position: center;
+    object-fit: cover;
+    object-position: center;
     position: absolute;
     top: 0;
     left: 0;
