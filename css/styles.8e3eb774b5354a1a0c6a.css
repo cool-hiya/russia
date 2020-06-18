@@ -669,6 +669,7 @@ template {
     max-width: 382px;
     font-size: 18px;
     text-align: center;
+    line-height: 26px;
 }
 
 .promo {
