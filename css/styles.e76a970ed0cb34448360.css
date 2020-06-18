@@ -527,6 +527,8 @@ template {
     line-height: 30px;
     display: grid;
     row-gap: 36px;
+    -ms-flex-align: start;
+        align-items: start;
 }
 
 .place__description p {
