@@ -534,10 +534,14 @@ template {
     display: grid;
     grid-template-columns: 460px auto;
     grid-template-areas:
-    'title website '
-    'image description';
+        "title website "
+        "image description";
     column-gap: 40px;
     row-gap: 60px;
+}
+
+.place > p {
+    margin: 0 0 36px;
 }
 
 
