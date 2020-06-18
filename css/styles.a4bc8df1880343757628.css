@@ -578,6 +578,12 @@ template {
         justify-content: space-between;
 }
 
+.menu {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+        align-items: center;
+}
 
 
 body {
