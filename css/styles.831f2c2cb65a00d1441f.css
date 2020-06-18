@@ -584,6 +584,9 @@ template {
         align-content: end;
     display: grid;
     margin: 0;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: start;
 }
 
 .place__website-label {
