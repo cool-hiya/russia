@@ -598,6 +598,10 @@ template {
     position: absolute;
     top: 0;
     left: 0;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    -webkit-transform: scale(1);
+            transform: scale(1);
 }
 
 .video__cover-content {
