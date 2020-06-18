@@ -587,6 +587,10 @@ template {
     letter-spacing: 0.2em;
 }
 
+.place__website-link {
+    font-size: 18px;
+    line-height: 30px;
+}
 
 .place {
     display: grid;
