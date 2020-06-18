@@ -434,6 +434,14 @@ template {
     border-color: #ffffff;
 }
 
+.link.link_reverse {
+    border-color: #ffffff;
+}
+
+.link.link_reverse:hover {
+    border-color: transparent;
+}
+
 .link {
     color: #ffffff;
     text-decoration: none;
