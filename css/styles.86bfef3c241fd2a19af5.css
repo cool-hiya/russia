@@ -625,6 +625,7 @@ template {
 .promo__cover {
     text-decoration: none;
     color: inherit;
+    height: 594px;
 }
 
 
