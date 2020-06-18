@@ -623,7 +623,7 @@ template {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 16px;
-    margin-top: 70px;
+    margin-top: 58px;
 }
 
 .videos__item {
