@@ -389,6 +389,11 @@ template {
     margin: 0;
 }
 
+.header__logo {
+    width: 176px;
+    margin-right: 30px;
+}
+
 .header {
     display: -ms-flexbox;
     display: flex;
