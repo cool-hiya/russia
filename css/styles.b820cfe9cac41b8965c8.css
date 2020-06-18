@@ -580,6 +580,13 @@ template {
     padding-bottom: 15px;
 }
 
+.place__website-label {
+    font-size: 12px;
+    line-height: 20px;
+    color: #aaaaaa;
+    text-transform: uppercase;
+}
+
 .place {
     display: grid;
     grid-template-columns: 460px auto;
