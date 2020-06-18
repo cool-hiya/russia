@@ -453,6 +453,9 @@ template {
             text-decoration: uppercase;
 }
 
+.image {
+    margin: 0;
+}
 
 .intro__image {
     margin-top: 78px;
