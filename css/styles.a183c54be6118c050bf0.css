@@ -387,7 +387,7 @@ template {
     line-height: 93px;
 }
 
-@media (max-width: 274px) {
+@media (max-width: 767px) {
     .title.title_size_l {
         font-size: 40px;
         line-height: 44px;
