@@ -442,6 +442,12 @@ template {
     }
 }
 
+@media (max-width: 374px) {
+    .centerer {
+        padding: 0 16px;
+    }
+}
+
 .link.link_active {
     pointer-events: none;
     border-color: #ffffff;
