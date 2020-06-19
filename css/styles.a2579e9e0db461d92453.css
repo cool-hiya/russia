@@ -795,7 +795,6 @@ template {
         font-size: 32px;
         line-height: 35px;
         margin-bottom: 32px;
-        text-align: left;
     }
 }
 
@@ -821,7 +820,6 @@ template {
     row-gap: 20px;
     -ms-flex-line-pack: start;
         align-content: start;
-    text-align: left;
 }
 
 .place__description p {
