@@ -922,6 +922,12 @@ template {
     line-height: 26px;
 }
 
+@media (max-width: 1024px) {
+    .promo__text {
+        margin: 74px 0 0;
+    }
+}
+
 .promo__title {
     text-align: center;
 }
