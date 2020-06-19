@@ -1333,6 +1333,13 @@ template {
     margin: 0;
 }
 
+@media (max-width: 767px) {
+    .promo__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}
+
 .promo {
     margin: 85px 0 105px;
 }
