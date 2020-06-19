@@ -488,6 +488,7 @@ template {
 @media (max-width: 1023px) {
     .section__title {
         max-width: 600px;
+        margin-bottom: 34px;
     }
 }
 
