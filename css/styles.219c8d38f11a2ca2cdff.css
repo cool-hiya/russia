@@ -1052,9 +1052,10 @@ template {
     }
 }
 
-@media (max-width: 1028px) {
+@media (max-width: 1023px) {
     .promo__cover {
         min-height: 500px;
+        padding: 43px;
     }
 }
 
