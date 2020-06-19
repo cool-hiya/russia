@@ -582,6 +582,7 @@ template {
 @media (max-width: 1023px) {
     .intro__description {
         max-width: none;
+        margin-bottom: 25px;
     }
 }
 
