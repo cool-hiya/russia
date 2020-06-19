@@ -429,6 +429,12 @@ template {
             box-sizing: border-box;
 }
 
+@media (max-width: 1023px) {
+    .centerer {
+        padding: 0 24px;
+    }
+}
+
 .link.link_active {
     pointer-events: none;
     border-color: #ffffff;
