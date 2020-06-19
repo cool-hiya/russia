@@ -986,6 +986,7 @@ template {
                 order: 2;
         max-width: 360px;
         margin-top: 10px;
+        font-size: 16px;
     }
 }
 
