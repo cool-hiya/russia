@@ -984,6 +984,12 @@ template {
     }
 }
 
+@media (max-width: 374px) {
+    .video {
+        margin-bottom: 62px;
+    }
+}
+
 .video__cover {
     width: 100%;
     height: 100%;
