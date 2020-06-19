@@ -938,6 +938,11 @@ template {
 @media (max-width: 1023px) {
     .videos__item {
         height: 200px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .videos__item {
         max-width: 400px;
     }
 }
