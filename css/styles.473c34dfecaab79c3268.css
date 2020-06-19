@@ -556,6 +556,12 @@ template {
     }
 }
 
+@media (max-width: 1023px) {
+    .photo-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 16px;
+    }
+}
 .intro__description {
     margin: 30px 0 14px;
     max-width: 683px;
