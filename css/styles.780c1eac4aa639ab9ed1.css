@@ -846,6 +846,8 @@ template {
     height: 41px;
     background: url(../images/90806a9e250ec5493e57c40f740abf34.svg) no-repeat center center;
     background-size: contain;
+    -ms-flex-negative: 0;
+        flex-shrink: 0;
 }
 
 .video__director {
