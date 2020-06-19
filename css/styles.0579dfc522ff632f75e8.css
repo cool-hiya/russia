@@ -920,6 +920,12 @@ template {
     padding: 48px 0;
 }
 
+@media (max-width: 1023px) {
+    .footer {
+        padding: 24px 0;
+    }
+}
+
 .menu__list{
     display: -webkit-box;
     display: -ms-flexbox;
