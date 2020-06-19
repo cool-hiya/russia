@@ -505,6 +505,13 @@ template {
     line-height: 23px;
 }
 
+@media (max-width: 767px) {
+    .lang-switch__lang {
+        font-size: 18px;
+        line-height: 18px;
+    }
+}
+
 .lang-switch {
     display: grid;
     grid-template-columns: auto auto;
