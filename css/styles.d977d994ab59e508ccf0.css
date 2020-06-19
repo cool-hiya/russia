@@ -556,6 +556,13 @@ template {
     width: calc(100% + 48px);
 }
 
+@media (max-width: 767px) {
+    .lead__image-cover {
+        margin-left: -16px;
+        width: calc(100% + 32px);
+    }
+}
+
 @media (max-width: 1023px) {
     .lead__title {
         max-width: none;
