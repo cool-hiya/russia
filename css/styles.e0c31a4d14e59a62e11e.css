@@ -795,6 +795,7 @@ template {
         font-size: 32px;
         line-height: 35px;
         margin-bottom: 32px;
+        text-align: left;
     }
 }
 
