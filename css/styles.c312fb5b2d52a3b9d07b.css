@@ -1288,7 +1288,7 @@ template {
 }
 
 @media (max-width: 767px) {
-    .promo__text {
+    .promo__cover {
         min-height: 272px;
     }
 }
