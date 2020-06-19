@@ -850,6 +850,9 @@ template {
 @media (max-width: 1023px) {
     .comments__list {
         grid-template-columns: auto;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
     }
 }
 
