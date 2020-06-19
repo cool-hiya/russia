@@ -953,7 +953,7 @@ template {
 
 @media (max-width: 767px) {
     .videos {
-        margin-top: 75px;
+        margin: 75px 0 70px;
     }
 }
 
