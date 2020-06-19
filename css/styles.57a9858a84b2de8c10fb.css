@@ -749,6 +749,7 @@ template {
 @media (max-width: 767px) {
     .intro {
         margin-top: 62px;
+        margin-bottom: 65px;
     }
 }
 
