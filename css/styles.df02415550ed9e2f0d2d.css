@@ -719,6 +719,12 @@ template {
     list-style-type: none;
 }
 
+@media (max-width: 767px) {
+    .intro__summary {
+        font-size: 12px;
+    }
+}
+
 .intro__summary-label {
     font-weight: 700;
 }
