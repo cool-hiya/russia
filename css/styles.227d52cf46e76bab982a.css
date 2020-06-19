@@ -524,6 +524,10 @@ template {
     }
 }
 
+.lead__image-cover {
+    margin-left: -24px;
+    margin-right: -24px;
+}
 
 .lead {
     max-width: 985px;
