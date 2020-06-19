@@ -1190,6 +1190,12 @@ body {
     font-size: 14px;
 }
 
+@media (max-width: 767px) {
+    body {
+        font-size: 16px;
+    }
+}
+
 .visually-hidden {
     position: absolute;
     width: 1px;
