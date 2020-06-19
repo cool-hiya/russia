@@ -540,6 +540,7 @@ template {
 @media (max-width: 767px) {
     .section__title {
         font-size: 16px;
+        line-height: 23px;
     }
 }
 
