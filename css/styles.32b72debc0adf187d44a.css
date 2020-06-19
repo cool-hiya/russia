@@ -897,6 +897,7 @@ template {
 @media (max-width: 1024px) {
     .promo__cover {
         min-height: 562px;
+        padding: 33px 42px;
     }
 }
 
