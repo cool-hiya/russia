@@ -941,13 +941,6 @@ template {
     }
 }
 
-@media (max-width: 767px) {
-    .videos__item {
-        height: 60%;
-        min-height: 100%;
-    }
-}
-
 .videos {
     margin: 110px 0;
 }
