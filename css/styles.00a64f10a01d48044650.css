@@ -985,7 +985,7 @@ template {
 }
 
 @media (max-width: 374px) {
-    .video {
+    .videos {
         margin-bottom: 62px;
     }
 }
