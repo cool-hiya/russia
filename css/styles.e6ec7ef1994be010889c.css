@@ -641,6 +641,8 @@ template {
         font-size: 42px;
         line-height: 46px;
         padding-right: 10px;
+        -ms-flex-item-align: end;
+            align-self: end;
     }
 }
 
