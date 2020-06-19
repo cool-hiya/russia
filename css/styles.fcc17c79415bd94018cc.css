@@ -937,7 +937,8 @@ template {
 
 @media (max-width: 1023px) {
     .videos__item {
-        height: 200px;
+        height: 58%;
+        min-height: 100%;
     }
 }
 
