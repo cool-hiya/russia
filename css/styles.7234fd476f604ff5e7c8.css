@@ -921,6 +921,9 @@ template {
     line-height: 26px;
 }
 
+.promo__title {
+    text-align: center;
+}
 
 .promo {
     margin: 85px 0 105px;
