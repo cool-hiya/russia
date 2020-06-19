@@ -704,6 +704,12 @@ template {
     }
 }
 
+@media (max-width: 767px) {
+    .intro__description {
+        line-height: 27px;
+    }
+}
+
 .intro__summary {
     font-size: 13px;
     line-height: 20px;
