@@ -1129,7 +1129,7 @@ template {
 
 @media (max-width: 1023px) {
     .promo {
-        margin: 105px -24px;
+        margin: 105px -24px 60px;
     }
 }
 
