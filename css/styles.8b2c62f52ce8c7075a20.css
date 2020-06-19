@@ -685,6 +685,14 @@ template {
     max-width: 500px;
 }
 
+@media (max-width: 767px) {
+    .photo-grid__image {
+        max-height: 400px;
+        -o-object-fit: cover;
+           object-fit: cover;
+    }
+}
+
 .photo-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
