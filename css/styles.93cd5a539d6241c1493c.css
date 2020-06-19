@@ -1326,6 +1326,13 @@ template {
     }
 }
 
+@media (max-width: 767px) {
+    .promo__text {
+        font-size: 14px;
+        line-height: 17px;
+    }
+}
+
 .promo__title {
     text-align: center;
     font-size: 72px;
