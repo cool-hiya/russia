@@ -771,6 +771,13 @@ template {
     }
 }
 
+@media (max-width: 768px) {
+    .place__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}
+
 .place__image {
     grid-area: image;
     width: 100%;
