@@ -903,6 +903,7 @@ template {
 @media (max-width: 767px) {
     .place {
         display: block;
+        text-align: center;
     }
 }
 .videos__list {
