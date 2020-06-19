@@ -449,7 +449,7 @@ template {
     }
 }
 
-@media (max-width: 374px) {
+@media (max-width: 767px) {
     .centerer {
         padding: 0 16px;
     }
