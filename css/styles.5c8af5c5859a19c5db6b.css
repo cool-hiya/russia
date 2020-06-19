@@ -937,7 +937,13 @@ template {
 
 @media (max-width: 1023px) {
     .videos__item {
-        height: 59%;
+        height: 200px;
+    }
+}
+
+@media (max-width: 767px) {
+    .videos__item {
+        height: 60%;
         min-height: 100%;
     }
 }
