@@ -518,6 +518,12 @@ template {
     grid-gap: 19px;
 }
 
+@media (max-width: 767px) {
+    .lang-switch {
+        grid-gap: 24px;
+    }
+}
+
 .section__title {
     max-width: 800px;
     text-align: center;
