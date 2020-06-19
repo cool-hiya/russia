@@ -985,6 +985,7 @@ template {
             -ms-flex-order: 2;
                 order: 2;
         max-width: 360px;
+        margin-top: 10px;
     }
 }
 
