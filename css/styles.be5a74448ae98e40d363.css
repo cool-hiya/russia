@@ -733,6 +733,12 @@ template {
     }
 }
 
+@media (max-width: 767px) {
+    .intro {
+        margin-top: 62px;
+    }
+}
+
 .place__title {
     grid-area: title;
     line-height: 65px;
