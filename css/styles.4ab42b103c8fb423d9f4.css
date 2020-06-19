@@ -684,6 +684,12 @@ template {
     }
 }
 
+@media (max-width: 1023px) {
+    .videos__item {
+        height: 200px;
+    }
+}
+
 .videos {
     margin: 110px 0;
 }
