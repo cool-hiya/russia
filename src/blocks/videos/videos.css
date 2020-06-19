@@ -4,3 +4,9 @@
 .videos {
     margin: 110px 0;
 }
+
+@media (max-width: 1023px) {
+    .videos {
+        margin-top: 115px;
+    }
+}

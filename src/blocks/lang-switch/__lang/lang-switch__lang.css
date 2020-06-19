@@ -2,3 +2,10 @@
     font-size: 24px;
     line-height: 23px;
 }
+
+@media (max-width: 767px) {
+    .lang-switch__lang {
+        font-size: 18px;
+        line-height: 18px;
+    }
+}

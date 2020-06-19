@@ -3,3 +3,16 @@
     text-align: center;
     margin: 0 auto 37px;
 }
+
+@media (max-width: 1023px) {
+    .section__title {
+        max-width: 600px;
+        margin-bottom: 34px;
+    }
+}
+
+@media (max-width: 767px) {
+    .section__title {
+        margin-bottom: 12px;
+    }
+}

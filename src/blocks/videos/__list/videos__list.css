@@ -4,3 +4,9 @@
     grid-gap: 16px;
     margin-top: 58px;
 }
+
+@media (max-width: 1023px) {
+    .videos__list {
+        margin-top: 43px;
+    }
+}

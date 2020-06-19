@@ -3,3 +3,10 @@
     max-width: 683px;
     line-height: 24px;
 }
+
+@media (max-width: 1023px) {
+    .intro__description {
+        max-width: none;
+        margin-bottom: 25px;
+    }
+}

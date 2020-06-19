@@ -5,4 +5,5 @@
     height: 41px;
     background: url("../../../images/icons/play.svg") no-repeat center center;
     background-size: contain;
+    flex-shrink: 0;
 }

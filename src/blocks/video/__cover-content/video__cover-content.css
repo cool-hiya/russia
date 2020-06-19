@@ -20,3 +20,9 @@
     opacity: 0.5;
     z-index: -1;
 }
+
+@media (max-width: 1023px) {
+    .video__cover-content {
+        padding: 25px 24px 24px;
+    }
+}

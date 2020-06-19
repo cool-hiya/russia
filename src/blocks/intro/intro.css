@@ -6,3 +6,15 @@
     max-width: 984px;
     margin: 80px auto 97px;
 }
+
+@media (max-width: 1279px) {
+    .intro {
+        margin-bottom: 102px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .intro {
+        margin-bottom: 95px;
+    }
+}
