@@ -1050,6 +1050,12 @@ template {
     }
 }
 
+@media (max-width: 374px) {
+    .videos__item {
+        padding: 16px;
+    }
+}
+
 .video__title {
     font-weight: 900;
     font-size: 36px;
