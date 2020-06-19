@@ -809,6 +809,7 @@ template {
         margin-left: -16px;
         width: calc(100% + 32px);
         margin-bottom: 30px;
+        max-width: 400px;
     }
 }
 
