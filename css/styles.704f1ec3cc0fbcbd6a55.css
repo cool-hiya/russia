@@ -972,6 +972,12 @@ template {
     }
 }
 
+@media (max-width: 767px) {
+    .footer {
+        display: block;
+    }
+}
+
 .menu__list{
     display: -webkit-box;
     display: -ms-flexbox;
