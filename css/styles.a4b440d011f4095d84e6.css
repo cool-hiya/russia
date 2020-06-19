@@ -1170,6 +1170,12 @@ template {
     }
 }
 
+@media (max-width: 767px) {
+    .comments__list {
+        margin-top: 45px;
+    }
+}
+
 
 
 .comment__image {
