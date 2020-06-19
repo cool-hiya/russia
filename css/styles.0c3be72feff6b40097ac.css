@@ -958,6 +958,7 @@ template {
             -ms-flex-pack: center;
                 justify-content: center;
         margin-top: 55px;
+        grid-gap: 50px;
     }
 }
 
