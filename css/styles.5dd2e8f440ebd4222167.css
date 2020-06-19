@@ -1185,6 +1185,7 @@ template {
 @media (max-width: 767px) {
     .comment__author {
         font-size: 14px;
+        line-height: 23px;
     }
 }
 
