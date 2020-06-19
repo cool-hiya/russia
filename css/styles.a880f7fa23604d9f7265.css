@@ -518,6 +518,12 @@ template {
     margin-bottom: 71px;
 }
 
+@media (max-width: 1023px) {
+    .lead__subtitle {
+        max-width: 655px;
+    }
+}
+
 .lead {
     max-width: 985px;
     margin: 14px auto 0;
