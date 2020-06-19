@@ -1,0 +1,14 @@
+@import "./__subtitle/lead__subtitle.css";
+@import "./__image-cover/lead__image-cover.css";
+@import "./__title/lead__title.css";
+
+.lead {
+    max-width: 985px;
+    margin: 14px auto 0;
+}
+
+@media (max-width: 767px) {
+    .lead {
+        margin-top: 20px;
+    }
+}

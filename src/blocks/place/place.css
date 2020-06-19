@@ -1,0 +1,36 @@
+@import "./__title/place__title.css";
+@import "./__image/place__image.css";
+@import "./__description/place__description.css";
+@import "./__website/place__website.css";
+@import "./__website-label/place__website-label.css";
+@import "./__website-link/place__website-link.css";
+
+.place {
+    display: grid;
+    grid-template-columns: 460px auto;
+    grid-template-areas:
+        "title website "
+        "image description";
+    column-gap: 40px;
+    row-gap: 53px;
+}
+
+@media (max-width: 1279px) {
+    .place {
+        grid-template-columns: 440px auto;
+        column-gap: 32px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .place {
+        grid-template-columns: 340px auto;
+        column-gap: 28px;
+    }
+}
+
+@media (max-width: 767px) {
+    .place {
+        display: block;
+    }
+}

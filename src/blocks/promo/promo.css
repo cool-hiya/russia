@@ -1,0 +1,37 @@
+@import "./__cover/promo__cover.css";
+@import "./__image/promo__image.css";
+@import "./__text/promo__text.css";
+@import "./__title/promo__title.css";
+
+.promo {
+    margin: 85px 0 105px;
+}
+
+.promo:hover .promo__image {
+    transform: scale(1.1);
+}
+
+@media (max-width: 1279px) {
+    .promo {
+        margin-left: -48px;
+        margin-right: -48px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .promo {
+        margin: 105px -24px 60px;
+    }
+}
+
+@media (max-width: 767px) {
+    .promo {
+        margin: 50px -16px 32px;
+    }
+}
+
+@media (max-width: 374px) {
+    .promo {
+        margin-top: 65px;
+    }
+}

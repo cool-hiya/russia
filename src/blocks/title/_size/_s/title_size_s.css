@@ -1,0 +1,10 @@
+.title.title_size_s {
+    font-size: 54px;
+}
+
+@media (max-width: 767px) {
+    .title.title_size_s {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

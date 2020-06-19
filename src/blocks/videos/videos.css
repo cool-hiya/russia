@@ -1,0 +1,24 @@
+@import "./__list/videos__list.css";
+@import "./__item/videos__item.css";
+
+.videos {
+    margin: 110px 0;
+}
+
+@media (max-width: 1023px) {
+    .videos {
+        margin-top: 115px;
+    }
+}
+
+@media (max-width: 767px) {
+    .videos {
+        margin: 75px 0 70px;
+    }
+}
+
+@media (max-width: 374px) {
+    .videos {
+        margin-bottom: 62px;
+    }
+}

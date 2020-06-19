@@ -1,0 +1,21 @@
+.comments__list {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(3, auto);
+    margin-top: 64px;
+}
+
+@media (max-width: 1023px) {
+    .comments__list {
+        grid-template-columns: auto;
+        justify-content: center;
+        margin-top: 55px;
+        grid-gap: 50px;
+    }
+}
+
+@media (max-width: 767px) {
+    .comments__list {
+        margin-top: 45px;
+    }
+}

@@ -1,0 +1,28 @@
+.videos__item {
+    height: 323px;
+}
+@media (max-width: 1279px) {
+    .videos__item {
+        height: 288px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .videos__item {
+        height: 200px;
+    }
+}
+
+@media (max-width: 767px) {
+    .videos__item {
+        max-width: 400px;
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 374px) {
+    .videos__item {
+        height: 192px;
+    }
+}

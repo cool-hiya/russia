@@ -1,0 +1,13 @@
+.promo__title {
+    text-align: center;
+    font-size: 72px;
+    line-height: 78px;
+    margin: 0;
+}
+
+@media (max-width: 767px) {
+    .promo__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

@@ -1,0 +1,15 @@
+@import "./__cover/video__cover.css";
+@import "./__source/video__source.css";
+@import "./__poster.css/video__poster.css";
+@import "./__cover-content/video__cover-content.css";
+@import "./__title/video__title.css";
+@import "./__duration/video__duration.css";
+@import "./__play-icon/video__play-icon.css";
+@import "./__director/video__director.css";
+@import "./__play/video__play.css";
+
+.video {
+    position: relative;
+    border-radius: 5px;
+    overflow: hidden;
+}

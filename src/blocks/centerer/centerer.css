@@ -1,0 +1,19 @@
+.centerer {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 48px;
+    min-width: 320px;
+    box-sizing: border-box;
+}
+
+@media (max-width: 1023px) {
+    .centerer {
+        padding: 0 24px;
+    }
+}
+
+@media (max-width: 767px) {
+    .centerer {
+        padding: 0 16px;
+    }
+}

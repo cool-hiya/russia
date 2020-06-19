@@ -1,0 +1,9 @@
+.video__play-icon {
+    margin-bottom: auto;
+    font-size: 0;
+    width: 41px;
+    height: 41px;
+    background: url("../../../images/icons/play.svg") no-repeat center center;
+    background-size: contain;
+    flex-shrink: 0;
+}

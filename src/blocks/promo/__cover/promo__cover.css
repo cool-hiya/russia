@@ -1,0 +1,53 @@
+.promo__cover {
+    text-decoration: none;
+    color: inherit;
+    min-height: 594px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 42px;
+    box-sizing: border-box;
+}
+
+.promo__cover::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #2a2c2f;
+    opacity: 0.3;
+    z-index: -1;
+}
+
+@media (max-width: 1279px) {
+    .promo__cover {
+        min-height: 562px;
+        padding: 33px 51px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .promo__cover {
+        min-height: 500px;
+        padding: 43px;
+    }
+}
+
+@media (max-width: 767px) {
+    .promo__cover {
+        min-height: 272px;
+        padding: 30px 51px;
+    }
+}
+
+@media (max-width: 374px) {
+    .promo__cover {
+        min-height: 216px;
+        padding: 20px 16px;
+    }
+}

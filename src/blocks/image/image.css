@@ -1,0 +1,7 @@
+@import "./__cover/image__cover.css";
+@import "./__title.css/image__title.css";
+
+.image {
+    margin: 0;
+    width: 100%;
+}

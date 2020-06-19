@@ -1,0 +1,14 @@
+.place__website {
+    grid-area: website;
+    align-content: end;
+    display: grid;
+    margin: 0;
+    justify-content: start;
+    row-gap: 13px;
+}
+
+@media (max-width: 767px) {
+    .place__website {
+        display: none;
+    }
+}

@@ -1,0 +1,4 @@
+.link.link_active {
+    pointer-events: none;
+    border-color: #ffffff;
+}

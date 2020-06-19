@@ -1,0 +1,14 @@
+@import "./__image/comment__image.css";
+@import "./__author/comment__author.css";
+@import "./__text/comment__text.css";
+
+.comment {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 1023px) {
+    .comment {
+        align-items: center;
+    }
+}

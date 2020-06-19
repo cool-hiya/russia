@@ -1,0 +1,31 @@
+@import "./vendor/fonts.css";
+@import "./vendor/normalize.css";
+
+@import "./blocks/blocks.css";
+
+body {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    background-color: #2a2c2f;
+    font-size: 14px;
+}
+
+@media (max-width: 767px) {
+    body {
+        font-size: 16px;
+    }
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}

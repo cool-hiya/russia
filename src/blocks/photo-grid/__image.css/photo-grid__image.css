@@ -1,0 +1,10 @@
+.photo-grid__image {
+    width: 100%;
+}
+
+@media (max-width: 767px) {
+    .photo-grid__image {
+        max-height: 400px;
+        object-fit: cover;
+    }
+}

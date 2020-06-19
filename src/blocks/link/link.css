@@ -1,0 +1,14 @@
+@import "./_active/link_active.css";
+@import "./_reverse/link_reverse.css";
+
+.link {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: inherit;
+    border-bottom: 1px solid transparent;
+    transition: border 0.3s;
+}
+
+.link:hover {
+    border-color: #ffffff;
+}

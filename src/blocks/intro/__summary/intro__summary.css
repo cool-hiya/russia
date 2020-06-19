@@ -1,0 +1,13 @@
+.intro__summary {
+    font-size: 13px;
+    line-height: 20px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+@media (max-width: 767px) {
+    .intro__summary {
+        font-size: 12px;
+    }
+}
