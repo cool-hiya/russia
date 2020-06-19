@@ -663,6 +663,11 @@ template {
     }
 }
 
+@media (max-width: 1024px) {
+    .place {
+        grid-template-columns: 340px auto;
+    }
+}
 .videos__list {
     display: grid;
     grid-template-columns: 1fr 1fr;
