@@ -1213,6 +1213,12 @@ template {
     }
 }
 
+@media (max-width: 767px) {
+    .comments__text {
+        margin-top: 5px;
+    }
+}
+
 .comment {
     display: -webkit-box;
     display: -ms-flexbox;
