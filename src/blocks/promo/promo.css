@@ -29,3 +29,9 @@
         margin: 50px -16px 32px;
     }
 }
+
+@media (max-width: 374px) {
+    .promo {
+        margin-top: 65px;
+    }
+}

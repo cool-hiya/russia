@@ -20,3 +20,9 @@
         margin: 0 auto;
     }
 }
+
+@media (max-width: 374px) {
+    .videos__item {
+        height: 192px;
+    }
+}

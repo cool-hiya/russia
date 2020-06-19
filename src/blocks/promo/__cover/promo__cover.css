@@ -44,3 +44,10 @@
         padding: 30px 51px;
     }
 }
+
+@media (max-width: 374px) {
+    .promo__cover {
+        min-height: 216px;
+        padding: 20px 16px;
+    }
+}
