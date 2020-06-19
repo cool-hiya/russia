@@ -626,6 +626,13 @@ template {
         grid-gap: 16px;
     }
 }
+
+@media (max-width: 767px) {
+    .photo-grid {
+        grid-template-columns: auto;
+    }
+}
+
 .intro__description {
     margin: 30px 0 14px;
     max-width: 683px;
