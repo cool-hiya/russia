@@ -1287,6 +1287,12 @@ template {
     }
 }
 
+@media (max-width: 767px) {
+    .promo__text {
+        min-height: 272px;
+    }
+}
+
 .promo__image {
     -o-object-fit: cover;
        object-fit: cover;
