@@ -543,6 +543,11 @@ template {
     width: calc(100% + 48px);
 }
 
+@media (max-width: 1023px) {
+    .lead__title {
+        max-width: none;
+    }
+}
 
 .lead {
     max-width: 985px;
