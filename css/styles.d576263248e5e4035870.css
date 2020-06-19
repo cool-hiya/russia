@@ -639,9 +639,15 @@ template {
     }
 }
 
-.places__list{
+.places__list {
    display: grid;
    row-gap: 82px;
+}
+
+@media (max-width: 767px) {
+   .places__list {
+      row-gap: 57px;
+   }
 }
 
 .places {
