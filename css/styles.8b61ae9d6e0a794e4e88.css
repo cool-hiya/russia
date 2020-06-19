@@ -731,6 +731,12 @@ template {
     row-gap: 13px;
 }
 
+@media (max-width: 767px) {
+    .place__website {
+        display: none;
+    }
+}
+
 .place__website-label {
     font-size: 12px;
     line-height: 24px;
