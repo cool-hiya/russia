@@ -739,6 +739,12 @@ template {
     margin-top: 58px;
 }
 
+@media (max-width: 1023px) {
+    .videos__list {
+        margin-top: 43px;
+    }
+}
+
 .videos__item {
     height: 323px;
 }
