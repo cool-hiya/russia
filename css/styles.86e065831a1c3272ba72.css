@@ -830,12 +830,6 @@ template {
     margin-top: 64px;
 }
 
-@media (max-width: 1024px) {
-    .comments__title {
-        line-height: 65px;
-    }
-}
-
 
 
 .comment__image {
