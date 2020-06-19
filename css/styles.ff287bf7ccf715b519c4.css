@@ -779,6 +779,12 @@ template {
                 column-gap: 28px;
     }
 }
+
+@media (max-width: 1023px) {
+    .place {
+        grid-template-columns: none;
+    }
+}
 .videos__list {
     display: grid;
     grid-template-columns: 1fr 1fr;
