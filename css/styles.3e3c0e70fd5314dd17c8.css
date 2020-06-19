@@ -1093,6 +1093,12 @@ template {
     margin-left: 20px;
 }
 
+@media (max-width: 767px) {
+    .footer__copyright {
+        margin-left: 0;
+    }
+}
+
 .footer {
     display: -webkit-box;
     display: -ms-flexbox;
