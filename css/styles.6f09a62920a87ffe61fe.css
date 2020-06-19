@@ -661,6 +661,12 @@ template {
     }
 }
 
+@media (max-width: 767px) {
+    .places {
+        margin-top: 67px;
+    }
+}
+
 .photo-grid__image {
     width: 100%;
 }
