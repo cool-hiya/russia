@@ -847,6 +847,12 @@ template {
     margin-top: 64px;
 }
 
+@media (max-width: 1023px) {
+    .comments__list {
+        grid-template-columns: auto;
+    }
+}
+
 
 
 .comment__image {
