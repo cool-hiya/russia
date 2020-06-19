@@ -918,6 +918,13 @@ template {
     }
 }
 
+@media (max-width: 767px) {
+    .videos__list {
+        grid-template-columns: auto;
+        grid-gap: 8px;
+    }
+}
+
 .videos__item {
     height: 323px;
 }
