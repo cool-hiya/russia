@@ -682,6 +682,7 @@ template {
 
 .photo-grid__image {
     width: 100%;
+    max-width: 500px;
 }
 
 .photo-grid {
