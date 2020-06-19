@@ -1182,6 +1182,12 @@ template {
     font-weight: 700;
 }
 
+@media (max-width: 767px) {
+    .comment__author {
+        font-size: 14px;
+    }
+}
+
 .comment__text {
     margin: 39px 0 0;
     max-width: 382px;
