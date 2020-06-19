@@ -783,6 +783,7 @@ template {
 @media (max-width: 1023px) {
     .place {
         grid-template-columns: none;
+        grid-template-columns: auto;
     }
 }
 .videos__list {
