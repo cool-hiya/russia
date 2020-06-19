@@ -937,6 +937,7 @@ template {
 @media (max-width: 1024px) {
     .promo {
         margin-left: -48px;
+        margin-right: -48px;
     }
 }
 
