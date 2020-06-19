@@ -1052,6 +1052,11 @@ template {
     }
 }
 
+@media (max-width: 1028px) {
+    .promo__cover {
+        min-height: 65%;
+    }
+}
 .promo__image {
     -o-object-fit: cover;
        object-fit: cover;
