@@ -820,6 +820,7 @@ template {
     row-gap: 20px;
     -ms-flex-line-pack: start;
         align-content: start;
+    text-align: left;
 }
 
 .place__description p {
