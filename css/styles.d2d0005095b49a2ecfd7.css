@@ -484,8 +484,6 @@ template {
 
 
 .image__cover {
-    -o-object-fit: fill;
-       object-fit: fill;
     width: 100%;
 }
 
