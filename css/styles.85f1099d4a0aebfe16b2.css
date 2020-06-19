@@ -537,6 +537,12 @@ template {
     }
 }
 
+@media (max-width: 767px) {
+    .section__title {
+        font-size: 16px;
+    }
+}
+
 .section__subtitle {
     text-align: center;
     max-width: 640px;
