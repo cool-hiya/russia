@@ -978,6 +978,14 @@ template {
     line-height: 24px;
 }
 
+@media (max-width: 1023px) {
+    .comment__text {
+        -webkit-box-ordinal-group: 3;
+            -ms-flex-order: 2;
+                order: 2;
+    }
+}
+
 .comment {
     display: -webkit-box;
     display: -ms-flexbox;
