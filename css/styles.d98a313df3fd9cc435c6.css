@@ -748,7 +748,9 @@ template {
     }
 }
 
-
+@media (max-width: 1023px){
+    
+}
 .videos {
     margin: 110px 0;
 }
