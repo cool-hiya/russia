@@ -1195,6 +1195,12 @@ template {
     }
 }
 
+@media (max-width: 767px) {
+    .promo {
+        margin: 105px -16px 60px;
+    }
+}
+
 ::-webkit-scrollbar {
     width: 3px;
     height: 3px;
