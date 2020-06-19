@@ -787,6 +787,7 @@ template {
 @media (max-width: 767px) {
     .place__image {
         margin-left: -16px;
+        width: calc(100% + 32px);
     }
 }
 
