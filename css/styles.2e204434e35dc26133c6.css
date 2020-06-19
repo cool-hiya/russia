@@ -667,6 +667,11 @@ template {
 .videos__item {
     height: 323px;
 }
+@media (max-width: 1024px) {
+    .videos__item {
+        height: 288px;
+    }
+}
 
 .videos {
     margin: 110px 0;
