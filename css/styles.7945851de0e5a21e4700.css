@@ -1353,7 +1353,7 @@ template {
 @media (max-width: 374px) {
     .promo__cover {
         min-height: 216px;
-        padding: 24px 16px;
+        padding: 20px 16px;
     }
 }
 
@@ -1401,6 +1401,12 @@ template {
         font-size: 14px;
         line-height: 17px;
         margin-top: 15px;
+    }
+}
+
+@media (max-width: 374px) {
+    .promo__text {
+        margin-top: 8px;
     }
 }
 
