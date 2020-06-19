@@ -783,6 +783,13 @@ template {
     grid-area: image;
     width: 100%;
 }
+
+@media (max-width: 767px) {
+    .place__image {
+        margin-left: -16px;
+    }
+}
+
 .place__description {
     grid-area: description;
     font-size: 18px;
