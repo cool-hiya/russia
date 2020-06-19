@@ -718,6 +718,9 @@ template {
 @media (max-width: 1023px) {
     .place {
         grid-template-columns: 340px auto;
+        -webkit-column-gap: 28px;
+           -moz-column-gap: 28px;
+                column-gap: 28px;
     }
 }
 .videos__list {
