@@ -707,6 +707,7 @@ template {
 @media (max-width: 767px) {
     .intro__description {
         line-height: 27px;
+        margin-bottom: 32px;
     }
 }
 
