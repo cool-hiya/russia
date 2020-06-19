@@ -497,6 +497,12 @@ template {
     line-height: 12px;
 }
 
+@media (max-width: 1024px) {
+    .image__title {
+        margin-top: 16px;
+    }
+}
+
 .image {
     margin: 0;
     width: 100%;
