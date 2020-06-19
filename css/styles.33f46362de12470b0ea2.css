@@ -922,6 +922,7 @@ template {
     .videos__list {
         grid-template-columns: auto;
         grid-gap: 8px;
+        margin-top: 30px;
     }
 }
 
