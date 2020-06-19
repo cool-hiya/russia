@@ -988,6 +988,14 @@ template {
             flex-direction: column;
 }
 
+@media (max-width: 1023px) {
+    .comment {
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+}
+
 .promo__cover {
     text-decoration: none;
     color: inherit;
