@@ -1214,7 +1214,7 @@ template {
 }
 
 @media (max-width: 767px) {
-    .comments__text {
+    .comment__text {
         margin-top: 5px;
     }
 }
