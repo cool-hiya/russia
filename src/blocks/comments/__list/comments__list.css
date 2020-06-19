@@ -13,3 +13,9 @@
         grid-gap: 50px;
     }
 }
+
+@media (max-width: 767px) {
+    .comments__list {
+        margin-top: 45px;
+    }
+}

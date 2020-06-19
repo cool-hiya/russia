@@ -4,3 +4,9 @@
     letter-spacing: 0.3em;
     margin-bottom: 10px;
 }
+
+@media (max-width: 1023px) {
+    .video__duration {
+        margin-bottom: 0;
+    }
+}

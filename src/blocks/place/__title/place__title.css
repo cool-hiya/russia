@@ -14,3 +14,11 @@
         align-self: end;
     }
 }
+
+@media (max-width: 767px) {
+    .place__title {
+        font-size: 32px;
+        line-height: 35px;
+        margin-bottom: 32px;
+    }
+}

@@ -1,6 +1,8 @@
-.lead__image-cover {
-    margin-left: -24px;
-    width: calc(100% + 48px);
+@media (max-width: 1023px) {
+    .lead__image-cover {
+        margin-left: -24px;
+        width: calc(100% + 48px);
+    }
 }
 
 @media (max-width: 767px) {

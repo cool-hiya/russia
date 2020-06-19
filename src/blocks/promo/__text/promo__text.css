@@ -17,3 +17,11 @@
         margin-top: 55px;
     }
 }
+
+@media (max-width: 767px) {
+    .promo__text {
+        font-size: 14px;
+        line-height: 17px;
+        margin-top: 15px;
+    }
+}

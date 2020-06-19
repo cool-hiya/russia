@@ -12,3 +12,9 @@
         line-height: 23px;
     }
 }
+
+@media (max-width: 767px) {
+    .comment__text {
+        margin-top: 5px;
+    }
+}

@@ -10,3 +10,9 @@
         margin-top: 115px;
     }
 }
+
+@media (max-width: 767px) {
+    .videos {
+        margin: 75px 0 70px;
+    }
+}
