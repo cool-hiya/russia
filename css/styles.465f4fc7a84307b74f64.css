@@ -809,6 +809,8 @@ template {
         width: calc(100% + 32px);
         margin-bottom: 30px;
         max-height: 400px;
+        -o-object-fit: cover;
+           object-fit: cover;
     }
 }
 
