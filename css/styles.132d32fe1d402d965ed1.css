@@ -1094,6 +1094,7 @@ template {
     text-align: center;
     font-size: 72px;
     line-height: 78px;
+    margin: 0;
 }
 
 .promo {
