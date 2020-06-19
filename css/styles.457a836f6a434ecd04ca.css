@@ -606,6 +606,12 @@ template {
     margin: 14px auto 0;
 }
 
+@media (max-width: 767px) {
+    .lead {
+        margin-top: 20px;
+    }
+}
+
 .places__list{
    display: grid;
    row-gap: 82px;
