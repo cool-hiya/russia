@@ -526,7 +526,7 @@ template {
 
 .lead__image-cover {
     margin-left: -24px;
-    margin-right: -24px;
+    width: calc(100% + 48px);
 }
 
 .lead {
