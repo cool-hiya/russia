@@ -1439,6 +1439,12 @@ template {
     }
 }
 
+@media (max-width: 374px) {
+    .videos {
+        margin-top: 65px;
+    }
+}
+
 ::-webkit-scrollbar {
     width: 3px;
     height: 3px;
