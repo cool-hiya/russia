@@ -764,6 +764,12 @@ template {
     margin: 110px 0;
 }
 
+@media (max-width: 1023px) {
+    .videos {
+        margin-top: 115px;
+    }
+}
+
 .video__cover {
     width: 100%;
     height: 100%;
