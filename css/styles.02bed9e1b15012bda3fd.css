@@ -668,6 +668,7 @@ template {
     .place__description {
         font-size: 16px;
         line-height: 27px;
+        margin-top: -10px;
     }
 }
 
