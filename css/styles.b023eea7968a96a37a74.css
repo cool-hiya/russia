@@ -1087,13 +1087,8 @@ template {
 
 .promo__title {
     text-align: center;
-}
-
-@media (max-width: 1023px) {
-    .promo__title {
-        font-size: 72px;
-        line-height: 78px;
-    }
+    font-size: 72px;
+    line-height: 78px;
 }
 
 .promo {
