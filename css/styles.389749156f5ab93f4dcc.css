@@ -630,6 +630,13 @@ template {
     margin: 0;
 }
 
+@media (max-width: 1023px) {
+    .place__title {
+        font-size: 42px;
+        line-height: 46px;
+    }
+}
+
 .place__image {
     grid-area: image;
     width: 100%;
